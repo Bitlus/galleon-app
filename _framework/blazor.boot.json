@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "GalleonLibrary.dll": "sha256-AAWPFt4fINxFei9Hgc+4MGugmIDmhPV18eVr4HPxPuY=",
-      "GalleonWasm.dll": "sha256-FcNvSde8zTkpdM9MBadHouvNHfGs8lhhA+Bt21mBovo=",
+      "GalleonLibrary.dll": "sha256-in5nNxe6vPr9nnQ43lfGXZq22LVzZEKUTxTSwo0SDXA=",
+      "GalleonWasm.dll": "sha256-IHSaHuwOwnFev\/VCiKuQZzkAJUy9Tf1R05D5WvrWbHg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-dBOsOD3LFtE9gFOYFlp11buHNzU36Xkqun1rj+shDgk=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-CeyjjTO\/RJKRXfr4QubDT2Mtf4k9Y1wlMUrAirGUEvI=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-w6\/KA29yWd1QCgvk+cXnUmsgA8YXfOp+sUbFPBtX6vQ=",
@@ -23,7 +23,7 @@
       "Microsoft.Extensions.Logging.dll": "sha256-FAP1JbG2EgIcpWmys1JF1M6hlMtj+ytl8yJ5kF2NdAc=",
       "Microsoft.Extensions.Options.dll": "sha256-Ejg2oJ16fe1dfujkKQsdP1z1KU6remJ04GT21mm\/LI4=",
       "Microsoft.Extensions.Primitives.dll": "sha256-eXvGx2jcjpTPEJoAHBsW\/VuMPbNyyU+AsuhPmkzSSRY=",
-      "Microsoft.Fast.Components.FluentUI.dll": "sha256-NLZvq3sg6rzbBq\/vdLbTLzOXPQd5tK9ktXe2lU4wrXU=",
+      "Microsoft.Fast.Components.FluentUI.dll": "sha256-C5zS837HH4W3fqsekV2g0p4Hda3p4rT6mbNS9BB+Fxo=",
       "Microsoft.JSInterop.dll": "sha256-Bd6TCTRwX6m1w2OnA8Xy+VvlF9f7t5\/TxGMJUF556p4=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-4cMfifCYL\/bv5qiC8T6HyABhOewZlTXovRc+E\/CrUbc=",
       "System.Collections.Concurrent.dll": "sha256-yg42CGq1D9ssXKWAVkaZHVlu0ck71TwHTl5S1uw2Erw=",
